@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18304
-Fork on GitHub
-5427
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kanishk Chaudhary</h1>
 <h3 align="center">A passionate front-end developer and penetration tester from India</h3>
 
