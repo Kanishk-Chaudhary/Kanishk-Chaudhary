@@ -8,3 +8,14 @@ Unleashing cybersecurity expertise to fortify digital landscapes against vulnera
 Infusing creativity into every pixel, transforming ideas into visually stunning designs.
 - 🌐 Multifaceted Creator:
 Bridging the realms of development, security, and design for holistic digital innovation.
+
+<h3>Reach me at: </h3>
+<a href="https://www.linkedin.com/in/kanishk-chaudhary/"
+            ><img src="./assests/linkedin.png" alt="Linkedin"
+          /></a>
+<a href="https://www.linkedin.com/in/kanishk-chaudhary/"
+            ><img src="./assests/linkedin.png" alt="Linkedin"
+          /></a>
+<a href="https://www.linkedin.com/in/kanishk-chaudhary/"
+            ><img src="./assests/linkedin.png" alt="Linkedin"
+          /></a>
