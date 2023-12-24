@@ -4,8 +4,6 @@
 Crafting captivating user experiences with a passion for clean and responsive design.
 - 🔐 Penetration Tester:
 Unleashing cybersecurity expertise to fortify digital landscapes against vulnerabilities.
-- 🎬 Video Editor:
-Weaving narratives and emotions through visual storytelling, adding life to digital content.
 - 🎨 Designer:
 Infusing creativity into every pixel, transforming ideas into visually stunning designs.
 - 🌐 Multifaceted Creator:
