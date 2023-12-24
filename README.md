@@ -4,8 +4,6 @@
 Crafting captivating user experiences with a passion for clean and responsive design.
 - 🔐 Penetration Tester:
 Unleashing cybersecurity expertise to fortify digital landscapes against vulnerabilities.
-- 🕵️ Vulnerability Tester:
-Diligently identifying and securing potential weak points in software and systems.
 - 🎬 Video Editor:
 Weaving narratives and emotions through visual storytelling, adding life to digital content.
 - 🎨 Designer:
