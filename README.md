@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello guys! Myself Kanishk Chaudhary from India (Bharat) 👋
 
 - 👨‍💻 Front-End Developer:
 Crafting captivating user experiences with a passion for clean and responsive design.
