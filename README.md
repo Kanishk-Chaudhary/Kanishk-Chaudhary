@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kanishk Chaudhary</h1>
 <h3 align="center">A passionate Software developer and Designer from India (Bharat)</h3>
 
 - 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kanishk-Chaudhary?tab=repositories](https://github.com/Kanishk-Chaudhary?tab=repositories)
-
 - 📫 How to reach me **opkanix@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
